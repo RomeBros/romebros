@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rome ![Header](./[https://ibb.co/vvH5f5t1])</h1>
+<h1 align="center">Hi 👋, I'm Rome</h1>
 
 <h3 align="center">A passionate Blogger and frontend developer</h3>
 
